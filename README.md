@@ -2,8 +2,8 @@
 
 ## Overview of Project
 The project aims to visually compare the success of outcomes of kickstarter campaigns using a dataset of past capmaigns of different types. Links to the visual charts are as follows:
-/blob/main/resources/Outcomes_vs_Goals.png
-/blob/main/resources/Theater_Outcomes_vs_Launch.png
+![Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
+![Outcomes by Launch Date](/resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Purpose
